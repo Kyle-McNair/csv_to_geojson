@@ -64,7 +64,6 @@ csv = input("Enter the csv file path: ")
 df = pd.read_csv(csv)
 df = pd.DataFrame(df)
 
-## C:\Users\KyleW\Documents\Python_Scripts\Test.csv
 x_field = columnCheck(df,"X")
 y_field = columnCheck(df,"Y")
 
