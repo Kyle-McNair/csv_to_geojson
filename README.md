@@ -11,7 +11,7 @@ Steps to run the script:
 1. On command line, setup the file path where your csv is located. 
 2. Run the script (Python csv_to_geojson.py)
 3. The script will bring up a GUI to execute the conversion. 
-![alt text](gui.png)
+![alt text](gui.PNG)
 4. Browse through folder directory to find the csv file.
 5. Once the csv is found, you can select which x/y field in the dropdown selection.
 6. Browse to desired folder location and name the file name.
